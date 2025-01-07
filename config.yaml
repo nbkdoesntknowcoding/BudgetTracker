@@ -1,0 +1,26 @@
+credentials:
+  emails:
+    nischaybk@myacolyte.in:
+      name: Nischay BK
+      password: Nbkmdy@31
+      role: admin
+    subhapattnaik@myacolyte.in:
+      name: Admin User
+      password: acolyte2024
+      role: admin
+    ayesha@myacolyte.in:
+      name: Admin User
+      password: acolyte2024
+      role: admin
+    varun@myacolyte.in:
+      name: Admin User
+      password: acolyte2024
+      role: admin
+    admin@myacolyte.in:
+      name: Admin User
+      password: acolyte2024
+      role: admin      
+settings:
+  allowed_domains:
+    - myacolyte.in
+    - myacolyte.in
